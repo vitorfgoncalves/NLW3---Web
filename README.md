@@ -9,3 +9,5 @@ e nessa edição estará sendo ultilizada as seguintes tecnologias para a plataf
 
 Mappy é a ideia desenvolvida pela equipe da rocketseat,
 onde visa criar um app multiplataforma que auxilia o usuário a encontrar um orfanato perto de sua localização!
+
+![](https://raw.githubusercontent.com/vitorfgoncalves/NLW3---Web/main/src/images/Home.jpg)
